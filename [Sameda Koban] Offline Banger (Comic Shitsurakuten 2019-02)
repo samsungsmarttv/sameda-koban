@@ -1,0 +1,17 @@
+{
+  "title": "Offline Banger",
+  "description": "-",
+  "artist": "Sameda Koban",
+  "author": "-",
+  "cover": "https://ibb.co/tzx37s4",
+  "chapters": {
+    "2": {
+      "title": "Offline Banger",
+      "volume": "-",
+      "groups": {
+        "who cares": "/proxy/api/imgur/chapter/Bu4p7QE/"
+      },
+      "last_updated": "-"
+    },
+  }
+}
